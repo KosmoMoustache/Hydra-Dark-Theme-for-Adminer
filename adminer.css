@@ -910,8 +910,9 @@ textarea {
     color: #fff;
 }
 code {
-	filter: sepia() invert();
-	color: #000000;
+  padding: .5em;
+	/* filter: sepia() invert();
+	color: #000000; */
 }
 #content legend a {
     color: #7962f2;
