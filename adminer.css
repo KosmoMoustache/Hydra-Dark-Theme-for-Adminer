@@ -14,6 +14,10 @@ html {
   background-color: #221f2e;
 }
 
+optgroup {
+  background-color: #444153;
+}
+
 body {
   display: flex;
   overflow: hidden;
